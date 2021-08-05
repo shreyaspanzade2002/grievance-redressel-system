@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">grievance redressal system</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Vaild Email</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create Account</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Passwords Do Not Match</string>
+    <string name="error_vaild_email_password">Wrong Email or Password</string>
+
+    <string name="title_homepage">Home</string>
+    <string name="title_complaintpage">Register Complaint</string>
+    <string name="title_complainthstry">Complaint History</string>
+    <string name="title_loginpage">Login</string>
+    <string name="title_adminloginpage">Staff Login</string>
+    <string name="title_editaccount">Change Email</string>
+    <string name="title_about">About</string>
+    <string name="title_dashboard">Dashboard</string>
+
+    <string name="intro">
+        Vidyalankar polytechnic greivance redressal system</string>
+    <string name="about"> </string>
+    The name synonymous with educational excellence and success is dervied from the Sanskrit terms 'vidya' (knowledge) and 'alankar'(jewel). Team Vidyalankar focuses all its energies on spreading the radiance of the 'jewel' of knowlegde and eductaion globally.
+    <string name="header2"></string>
+
+    <string name="content">
+        Vidyalankar believes that character-building is an important step towards nation-building. Nurturing young minds is a vital responsibility. Vidyalankar Values are the set of ideals which guide the attitudes and behaviour of the members of the Vidyalankar family. It is said that there are no short-cuts on the road to success. Educating students on ethics, to differentiate between right and wrong and motivating them to choose the right path is imperative. The following values are interspersed in all aspects of the teaching-learning process.\n
+
+
+
+    Principles of VP:\n
+        Honesty:\n
+Being true to oneself and others; being trustworthy and straightforward in all our professional and personal dealings. To walk on the path of honesty and fairness, irrespective of the consequences that may ensue.\n
+        Integrity:\n
+Unwaveringly adhering to moral and ethical principles and upholding righteous behaviour. Developing strength of character, which is absolutely incorruptible at any point in the teaching-learning process and in one’s academic and professional life.\n
+        Excellence:\n
+Setting high standards and quality benchmarks for one self and endeavouring to reach them. Doing the very best one can in every task that one accomplishes. Aiming for personal, academic and professional excellence and never compromising with mediocrity.\n
+        Responsibility:\n
+Being aware of and shouldering one’s responsibilities towards self, institute, home and society. Acquire the inner belief to fulfil one’s responsibilities to the best of one’s abilities. Being accountable for one’s actions; practicing what one preaches and leading by example.\n
+        Commitment:\n
+Complete dedication and thorough engagement towards work. Inculcating loyalty and developing a sense of ownership. To be sincere in approach, adhere to deadlines and have a result-oriented approach.\n
+        Salubrious Attitude:\n
+Nurturing and promoting a feeling of well-being and a healthy and wholesome academic and professional environment. An attitude that is favourable to develop a healthy body, mind and character.\n
+
+
+    </string>
+
+    <string name="home_intro_text">Briefing on Vidyalankar Polytechnic</string>
+    <string name="home_acctSetting_text">View users profile and edit your account setting</string>
+    <string name="complaintHistory_text">View all complaints </string>
+    <string name="makeComplaint_text">Make your complaints here</string>
+    <string name="your_current_password">Current Password</string>
+    <string name="your_old_email">Your Old Email</string>
+    <string name="title_activity_edit_complaint">EditComplaint</string>
+</resources>
